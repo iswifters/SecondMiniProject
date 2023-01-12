@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.techsis.secondminiproject.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.techsis.secondminiproject.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/layout_card_layout.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/layout/card_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_e.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/e.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_g.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/g.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_b.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/b.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_i.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/i.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_d.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/d.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_f.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/f.jpg"
+    },
+    {
+        "merged": "com.techsis.secondminiproject.app-merged_res-29:/layout_card_layout.xml.flat",
+        "source": "com.techsis.secondminiproject.app-main-31:/layout/card_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_h.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/h.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_a.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/a.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_j.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/j.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable_c.jpg.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/drawable/c.jpg"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/7.3.3/com.techsis.secondminiproject.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

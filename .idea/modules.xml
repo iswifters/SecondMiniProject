@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SecondMiniProject.iml" filepath="$PROJECT_DIR$/.idea/modules/SecondMiniProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SecondMiniProject.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
